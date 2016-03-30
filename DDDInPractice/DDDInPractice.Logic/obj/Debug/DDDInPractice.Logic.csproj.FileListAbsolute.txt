@@ -1,0 +1,5 @@
+C:\Users\Sony\projects\DDD-Practice\DDDInPractice\DDDInPractice.Logic\bin\Debug\DDDInPractice.Logic.dll
+C:\Users\Sony\projects\DDD-Practice\DDDInPractice\DDDInPractice.Logic\bin\Debug\DDDInPractice.Logic.pdb
+C:\Users\Sony\projects\DDD-Practice\DDDInPractice\DDDInPractice.Logic\obj\Debug\DDDInPractice.Logic.dll
+C:\Users\Sony\projects\DDD-Practice\DDDInPractice\DDDInPractice.Logic\obj\Debug\DDDInPractice.Logic.pdb
+C:\Users\Sony\projects\DDD-Practice\DDDInPractice\DDDInPractice.Logic\obj\Debug\DDDInPractice.Logic.csprojResolveAssemblyReference.cache
